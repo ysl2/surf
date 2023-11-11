@@ -1,7 +1,7 @@
 ![](surf.png)
 
 ```
-sudo apt install libwebkit2gtk-4.0-dev libgcr-3-dev libglib2.0-dev
+sudo apt install -y libwebkit2gtk-4.0-dev libgcr-3-dev libglib2.0-dev
 ```
 
 ```
